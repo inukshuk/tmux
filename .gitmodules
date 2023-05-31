@@ -1,0 +1,9 @@
+[submodule "plugins/sensible"]
+	path = plugins/sensible
+	url = https://github.com/tmux-plugins/tmux-sensible.git
+[submodule "plugins/pain-control"]
+	path = plugins/pain-control
+	url = https://github.com/tmux-plugins/tmux-pain-control.git
+[submodule "plugins/cowboy"]
+	path = plugins/cowboy
+	url = https://github.com/tmux-plugins/tmux-cowboy.git
